@@ -2,6 +2,6 @@
 echo "git";
 echo "ぎtstatus";
 echo "diff";
-echo "git commit --amend-amend";
+echo "git commit --amend";
 
 
